@@ -31,17 +31,17 @@ $config =
 
 			"Google" => array (
 				"enabled" => true,
-				"keys"    => array ( "id" => "67278376461-pift1phhlrr29jheiasc6727nm9knb13.apps.googleusercontent.com", "secret" => "5fQ57_TTKj-VLsGPg4yJwGX7" ),
+				"keys"    => array ( "id" => "Your api key here", "secret" => "Your secret key here" ),
 			),
 
 			"Facebook" => array (
 				"enabled" => true,
-				"keys"    => array ( "id" => "398311476992117", "secret" => "7b9c539bf0964bd7dd8eb4e51b104d5a" ),
+				"keys"    => array ( "id" => "your api key here", "secret" => "Your secret key here" ),
 			),
 
 			"Twitter" => array (
 				"enabled" => true,
-				"keys"    => array ( "key" => "t8nwYTDvIMTJGLd0Vmx563mFm", "secret" => "VyUmK3sdVibiDcqGd3FnZMXNAhmlTRWUXKpehID7lrKa4wE9nh" )
+				"keys"    => array ( "key" => "your api key here", "secret" => "Your secret key here" )
 			),
 
 			// windows live
